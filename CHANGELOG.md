@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.1.0](https://github.com/krsteen/conventionalcommits/compare/0.0.5...0.1.0) (2021-05-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **suspension:** the suspension does not have limiters and can compress to much if going to fast
+over a bump
+
+### Features
+
+* **suspension:** add the cheapest choice ([a79a2ce](https://github.com/krsteen/conventionalcommits/commit/a79a2ce2f07d00b78871f029b8a7264606561ea9)), closes [#5](https://github.com/krsteen/conventionalcommits/issues/5)
+
 ### [0.0.5](https://github.com/krsteen/conventionalcommits/compare/0.0.4...0.0.5) (2021-05-21)
 
 ### [0.0.4](https://github.com/krsteen/conventionalcommits/compare/0.0.3...0.0.4) (2021-05-21)
