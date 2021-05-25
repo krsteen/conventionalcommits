@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/krsteen/conventionalcommits/compare/0.1.0...0.2.0) (2021-05-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* **soundsystem:** The car is now 50ks heavier, and cannot carry as many bananas in the trunk
+
+### Features
+
+* **soundsystem:** add the loudest system on the market ([93919a0](https://github.com/krsteen/conventionalcommits/commit/93919a0680dbd9f0d35542cf4a78b39b9e27a968)), closes [#7](https://github.com/krsteen/conventionalcommits/issues/7)
+
 ## [0.1.0](https://github.com/krsteen/conventionalcommits/compare/0.0.5...0.1.0) (2021-05-21)
 
 
